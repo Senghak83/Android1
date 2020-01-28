@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">M1ITC20-S1</string>
+    <string name="frg"> Frament</string>
+    <string name="song">SONG</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
